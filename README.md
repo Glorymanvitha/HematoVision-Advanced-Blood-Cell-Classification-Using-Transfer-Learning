@@ -13,11 +13,7 @@ Enable fast, AI-assisted detection of white blood cell types from images to supp
 
 ---
 
-### 🚀 GO TO LIVE DEMO
-https://drive.google.com/file/d/1thEX-HYBVynmib1gvwTMGQWe5iPoHurF
 
-
----
 
 ## 📸 How It Works
 
@@ -124,7 +120,7 @@ Open your browser and navigate to: [http://localhost:5000](http://localhost:5000
 
 ## 📫 Contact
 
-📧 **Email:** *(add if you'd like to share)*
+📧 **Email:** smartinternz44653@gmail.com **
 📍 **Location:** Andhra Pradesh, India
 
 ---
