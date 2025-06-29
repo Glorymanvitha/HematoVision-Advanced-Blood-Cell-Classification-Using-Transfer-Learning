@@ -1,4 +1,3 @@
-Based on your project files and structure, here's a complete GitHub-style **README.md** content in the same format as "PoultryDetect", tailored for your project — **HematoVision – AI-Based Blood Cell Image Classifier**:
 
 ---
 
@@ -15,8 +14,8 @@ Enable fast, AI-assisted detection of white blood cell types from images to supp
 ---
 
 ### 🚀 GO TO LIVE DEMO
+https://drive.google.com/file/d/1thEX-HYBVynmib1gvwTMGQWe5iPoHurF
 
-*(*Optional: Add your deployed link here if available*)*
 
 ---
 
@@ -116,10 +115,10 @@ Open your browser and navigate to: [http://localhost:5000](http://localhost:5000
 
 | Name                      | Role           |
 | ------------------------- | -------------- |
-| Vidavaluru Glory Manvitha | 💡 Team Leader |
-| Thummala Kavya            | 🔧 Developer   |
-| Yaga Lakshmi              | 🔧 Developer   |
-| Sarag                     | 🔧 Developer   |
+| Vidavaluru Glory Manvitha | UI Design & Testing |
+| Thummala Kavya            |  Data Preparation   |
+| Yaga Lakshmi              |  Documentation  |
+| Saragadam Bhuvaneswari    | Backend Developer  |
 
 ---
 
@@ -145,4 +144,4 @@ This project is licensed under the **MIT License** – feel free to use and adap
 
 ---
 
-Let me know if you'd like this in **PDF format**, or want help deploying it on GitHub Pages or Streamlit.
+
